@@ -30,11 +30,10 @@ I am into Web & App Development, Internet of Things.
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-@raaashiiidd-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-@RashidM04594435-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/RashidM04594435)
 
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/Rashid Mohd/)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/rashid-mohd-677024238/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:rashidrashimrv002@gmail/com)
 [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//919645329201)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/raaashidd
-/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/raaashidd/)
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/raaashidd)
 
 
