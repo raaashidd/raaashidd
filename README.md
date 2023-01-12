@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Ameen+Arshad+Nediya;Thank+you+for+stopping+by+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Muhammed+Rashid;Thank+you+for+stopping+by+%F0%9F%91%8B">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@ Things I Do
 # Let's Talk Numbers and Stats
 I am into Web & App Development, Internet of Things.
 
-<!-- ![Ameen Arshad Nediya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARSHADAMEEN00&theme=algolia&show_icons=true)
+<!-- ![Muhammed Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARSHADAMEEN00&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHADAMEEN00&layout=compact&theme=algolia&show_icons=true) -->
 
 ## Stack and Tools
@@ -26,14 +26,15 @@ I am into Web & App Development, Internet of Things.
 # Get in Touch
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ameen_nediya-%23FF0000.svg?&style=social&logo=Instagram&logoColor=red"/><br>](https://www.instagram.com/ameen_nediya/)
-[<img alt="facebook" src="https://img.shields.io/badge/facebook-@ameenarshad-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-@AmeenarshadN-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/AmeenarshadN)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@raaashiiidd-%23FF0000.svg?&style=social&logo=Instagram&logoColor=red"/><br>](https://www.instagram.com/raaashiiidd/)
+[<img alt="facebook" src="https://img.shields.io/badge/facebook-@raaashiiidd-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-@RashidM04594435-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/RashidM04594435)
 
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ameen-arshad-nediya/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:ameen.osperb@gmail.com)
-[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//918606409313)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/ARSHADAMEEN00/)
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/Ameen_hbz)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/Rashid Mohd/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:rashidrashimrv002@gmail/com)
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//919645329201)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/raaashidd
+/)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/raaashidd)
 
 
