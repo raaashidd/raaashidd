@@ -9,7 +9,7 @@
 Things I Do
 ## Project Management. Team Leadership. Development.
 
-- Senior Software Developer at [osperb](https://www.osperb.com)
+- Junior Software Developer at [osperb](https://www.osperb.com)
 - Be a mentor to budding developers at [EdisonValley](https://github.com/edisonvalley) and help them be better developers
 
 # Let's Talk Numbers and Stats
