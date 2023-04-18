@@ -26,7 +26,7 @@ I am into Web & App Development, Internet of Things.
 # Get in Touch
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@mohd.rashiid-%23FF0000.svg?&style=social&logo=Instagram&logoColor=red"/><br>](https://www.instagram.com/raaashiiidd/)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@mohd.rashiid-%23FF0000.svg?&style=social&logo=Instagram&logoColor=red"/><br>](https://www.instagram.com/mohd.rashiid/)
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-@raaashiiidd-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-@RashidM04594435-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/RashidM04594435)
 
